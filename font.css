@@ -50,6 +50,13 @@ li {
   list-style: none;
 }
 
+footer {
+ font-family: "Halant", serif;
+  font-weight: 100;
+  font-style: italic;
+  text-align: center;
+}
+
 
 img {
         align-items: center;
