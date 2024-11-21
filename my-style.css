@@ -237,6 +237,12 @@ button {
   border-radius: 5px;
 }
 
+
+.gallery-image img {
+	width: 100%;
+	max-height: 500px;
+}
+
 @media (min-width: 555px) {
   .media-holder {
     flex-direction: row;
