@@ -231,14 +231,6 @@ align-content: center;
 color: #f5f5f5;
 }
 
-.main-content-link{
-  width: unset;
-  height: unset;
-  position: relative;
-  padding: unset;
-  margin: unset;
-}
-
 
 @media (min-width: 555px) {
   .media-holder {
