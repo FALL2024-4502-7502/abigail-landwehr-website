@@ -219,17 +219,24 @@ button {
 	max-height: 500px;
 }
 
-
-.main-content-link {
+.main-content-link{
   position: absolute;
-  top: -3em;
-  background: #fff;
-}
-.main-content-link:focus {
-  top: 0;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
 }
 
-
+.main-content-link{
+  width: unset;
+  height: unset;
+  position: relative;
+  padding: unset;
+  margin: unset;
+  font-size: 2rem;
+}
 
 
 @media (min-width: 555px) {
