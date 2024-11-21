@@ -243,6 +243,19 @@ button {
 	max-height: 500px;
 }
 
+
+.skip-link {
+  position: absolute;
+  top: -3em;
+  background: #fff;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+
+
+
 @media (min-width: 555px) {
   .media-holder {
     flex-direction: row;
