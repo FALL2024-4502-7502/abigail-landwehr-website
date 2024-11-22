@@ -229,7 +229,7 @@ button {
   border: 0;
 }
 
-.main-content-link{
+.main-content-link:focus{
   width: unset;
   height: unset;
   position: relative;
