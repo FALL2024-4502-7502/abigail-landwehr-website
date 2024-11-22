@@ -41,6 +41,14 @@ h3 {
   color: #53647D;
 }
 
+h4 {
+ font-family: "Halant", serif;
+  font-weight: 100;
+  font-style: normal;
+  text-align: center;
+  color: #1a1a2c;
+}
+
 
 li {
   font-family: "Kalam", cursive;
