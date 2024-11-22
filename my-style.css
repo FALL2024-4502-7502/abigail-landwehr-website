@@ -234,17 +234,19 @@ button {
   width: unset;
   height: unset;
   position: relative;
-  padding: unset;
-  margin: unset;
   font-size: 1rem;
 color: #f5f5f5;
+	background-color: #22395f;
+	padding-left: 10px;
+	padding-right: 10px;
+		margin-right: auto;
+		margin-left: auto;
 }
 
 
 @media (min-width: 555px) {
   .media-holder {
     flex-direction: row;
-  }
 
   .image-holder {
     width: 30%;
